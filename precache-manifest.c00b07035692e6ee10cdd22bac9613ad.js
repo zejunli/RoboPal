@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8fa3160ebc9a51507b92ddcc126d26cd",
+    "revision": "a9dba69b6763c858e6cf7b88a6cd1cb5",
     "url": "/RoboPal/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RoboPal/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "6c7771b5cc04f2d22d5b",
+    "revision": "8cd7ea999b259933366b",
     "url": "/RoboPal/static/css/main.bff3653b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RoboPal/static/js/2.3bc5f773.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6c7771b5cc04f2d22d5b",
-    "url": "/RoboPal/static/js/main.1e563532.chunk.js"
+    "revision": "8cd7ea999b259933366b",
+    "url": "/RoboPal/static/js/main.825e5327.chunk.js"
   },
   {
     "revision": "98a030d4fcade53ff8cb",

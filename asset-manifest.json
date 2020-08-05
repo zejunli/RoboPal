@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RoboPal/static/css/main.bff3653b.chunk.css",
-    "main.js": "/RoboPal/static/js/main.1e563532.chunk.js",
-    "main.js.map": "/RoboPal/static/js/main.1e563532.chunk.js.map",
+    "main.js": "/RoboPal/static/js/main.825e5327.chunk.js",
+    "main.js.map": "/RoboPal/static/js/main.825e5327.chunk.js.map",
     "runtime-main.js": "/RoboPal/static/js/runtime-main.ed5b9e84.js",
     "runtime-main.js.map": "/RoboPal/static/js/runtime-main.ed5b9e84.js.map",
     "static/css/2.3c03f26f.chunk.css": "/RoboPal/static/css/2.3c03f26f.chunk.css",
     "static/js/2.3bc5f773.chunk.js": "/RoboPal/static/js/2.3bc5f773.chunk.js",
     "static/js/2.3bc5f773.chunk.js.map": "/RoboPal/static/js/2.3bc5f773.chunk.js.map",
     "index.html": "/RoboPal/index.html",
-    "precache-manifest.0a57571b0d12f7e8f8fdd29319578098.js": "/RoboPal/precache-manifest.0a57571b0d12f7e8f8fdd29319578098.js",
+    "precache-manifest.c00b07035692e6ee10cdd22bac9613ad.js": "/RoboPal/precache-manifest.c00b07035692e6ee10cdd22bac9613ad.js",
     "service-worker.js": "/RoboPal/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/RoboPal/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.bff3653b.chunk.css.map": "/RoboPal/static/css/main.bff3653b.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.3bc5f773.chunk.js",
     "static/css/main.bff3653b.chunk.css",
-    "static/js/main.1e563532.chunk.js"
+    "static/js/main.825e5327.chunk.js"
   ]
 }
